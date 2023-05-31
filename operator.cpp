@@ -23,7 +23,7 @@ int main()
     k = i-- - i++ + --j - ++j + --i - --j + ++i - j++;
     cout <<i << endl;//10
     cout <<j << endl;//20
-    cout <<k << endl; // -19
+    cout <<k << endl; //-19
 
     //Relational Operators
     //1.Equal (==)
@@ -61,6 +61,9 @@ int main()
     }
     else if(m%2==0){
         cout << ("Divisible by 2") << endl;
+    }
+    else{
+        cout << ("Divisible by none") << endl;
     }
 
     //Bitwise Operators

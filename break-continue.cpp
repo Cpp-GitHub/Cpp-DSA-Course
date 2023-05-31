@@ -10,10 +10,10 @@ int main(){
 	int n;
 	cout << ("Enter n : ");
 	cin >>n;
-	for(int i=1; i<n; i++){
-		if(i%2==0){
+	for(int k=1; k<n; k++){
+		if(k%2==0){
 			continue;
-		}cout <<i << endl;
+		}cout <<k << endl;
 	}
 	//skipped the even numbers
 
@@ -27,7 +27,6 @@ int main(){
 			cout << ("Non prime") << endl;
 			break;
 	}
-
 	}
 		
 	if(i==m){
@@ -39,13 +38,13 @@ int main(){
 	cout << ("Enter a, b : ");
 	cin >>a >>b;
 	for(int num=a; num<b; num++){
-		int i;
-		for(i=2; i<num; i++){
-			if(num%i==0){
+		int c;
+		for(c=2; c<num; c++){
+			if(num%c==0){
 				break;
 			}
 		}
-		if(i==num){
+		if(c==num){
 		cout << num << endl;
 	}
 	}	

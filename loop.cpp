@@ -25,7 +25,9 @@ int main()
 
 	//while loop
 	//checking a number if it is odd or not
-	int b = 56;
+	int b;
+	cout << ("Enter b : ");
+	cin >>b;
 	while(b%2==0){
 		cout <<b << endl;
 		break;
