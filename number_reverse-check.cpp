@@ -40,6 +40,5 @@ int main(){
         else{
             cout << ("Non-armstrong") << endl;
         }
-    
-            return 0;
+    return 0;
 }
