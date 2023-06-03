@@ -2,7 +2,7 @@
 	"cSpell.words": [
 		"saad"
 	],
-	"workbench.colorTheme" : "Sapphire",
+	"workbench.colorTheme" : "Monokai Pro (Filter Spectrum)",
 	"editor.tokenColorCustomizations": {
 		"textMateRules": [
 		  {
@@ -22,12 +22,12 @@
 		  {
 			"scope": [
 			  //following will be excluded from italics (VSCode has some defaults for italics)
-			  "invalid",
-			  "keyword.operator",
-			  "constant.numeric.css",
-			  "keyword.other.unit.px.css",
-			  "constant.numeric.decimal.js",
-			  "constant.numeric.json"
+			"invalid",
+			"keyword.operator",
+			"constant.numeric.css",
+			"keyword.other.unit.px.css",
+			"constant.numeric.decimal.js",
+			"constant.numeric.json"
 			],
 			"settings": {
 			  "fontStyle": "italic bold strikethrough"
