@@ -2,7 +2,7 @@
 	"cSpell.words": [
 		"saad"
 	],
-	"workbench.colorTheme" : "Monokai Pro (Filter Spectrum)",
+	"workbench.colorTheme" : "Monokai Pro",
 	"editor.tokenColorCustomizations": {
 		"textMateRules": [
 		  {
