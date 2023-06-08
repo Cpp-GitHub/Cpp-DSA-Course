@@ -13,5 +13,5 @@ Learn! Practice!! Practice!!!
 
 Readme for all who use my repository.
 See you all in  next time and next repository.
- 
- [If I won't wrong, next repository will about GUI (graphical User Interface) in C++]
+
+[If I won't wrong, next repository will about GUI (graphical User Interface) in C++]
