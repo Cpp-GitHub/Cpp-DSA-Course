@@ -1,7 +1,8 @@
 # Cpp-DSA-Course
+
 A full C++ course with DSA (Data Structure and Algorithm) has launched.
 This course include all types of ds and algorithm like popular and non-popular.
-I  made this course for beginners in competetive programming. (also who is master can take a look of that algorithm's).
+I  made this course for beginners in competitive programming. (also who is master can take a look of that algorithm's).
 I made for learner's and  I am also learning.
 So learners, learn DSA with C++ programming language.
 Practice and learn.
