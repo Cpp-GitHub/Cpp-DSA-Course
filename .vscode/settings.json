@@ -2,7 +2,7 @@
 	"cSpell.words": [
 		"saad"
 	],
-	"workbench.colorTheme" : "Monokai Pro",
+	"workbench.colorTheme" : "Vim Deep Dark",
 	"editor.tokenColorCustomizations": {
 		"textMateRules": [
 		  {
@@ -13,10 +13,10 @@
 			  "keyword", //import, export, return…
 			  "constant", //String, Number, Boolean…, this, super
 			  "storage.modifier", //static keyword
-			  "storage.type.class.js", //class keyword
+			  "storage.type.class.js" //class keyword
 			],
 			"settings": {
-			  "fontStyle": "italic"
+			  "fontStyle": "italic bold"
 			}
 		  },
 		  {
